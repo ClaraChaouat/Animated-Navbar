@@ -1,9 +1,3 @@
-//var el = document.getElementById('calendar')
-
-//el.onclick = function () {
-//console.log('Click just happened')
-//}
-
 let calendar = document.getElementById('calendar')
 let circleIcon = document.getElementById('circle')
 
