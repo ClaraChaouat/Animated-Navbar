@@ -10,29 +10,33 @@
         href="https://cdn.jsdelivr.net/gh/loadingio/loading.css@v2.0.0/dist/loading.min.css" />
     <link href="./style.css" rel="stylesheet" />
 </head>
+
 <body>
     <header>
         <div class="wrapper">
             <nav>
                 <ul>
-                    <li class="calendare">
-                        <a id="calendar" class=" calendar-icon active" href="#"><img
-                                src="./calendar-plus-solid.svg"></a><a id="circle" class="circle-icon" href="#"><img
-                                src="./circle-solid.svg"></a>
-                        <script src="animations.js"></script>
+                    <li>
+                        <a id="calendar" class="calendar-icon active" href="#"><img
+                                src="./images/calendar-plus-solid.svg"></a>
+                        <a id="circle" class="circle-icon" href="#">
+                            <div class="dot">.</div>
+                        </a>
                     </li>
-                    <li class="search">
-                        <a href="#"><img src="./search-solid.svg"></a>
+                    <li>
+                        <a id="search" class="search-icon active" href="#"><img src="./images/search-solid.svg"></a>
                     </li>
                     <li class="event">
-                        <a href="#"><img src="./bolt-solid.svg"></a>
+                        <a href="#"><img src="./images/bolt-solid.svg"></a>
                     </li>
                     <li class="setting">
-                        <a href="#"><img src="./sliders-h-solid.svg"></a>
+                        <a href="#"><img src="./images/sliders-h-solid.svg"></a>
                     </li>
+                    <script src="animations.js"></script>
                 </ul>
             </nav>
         </div>
     </header>
 </body>
+
 </html>

@@ -58,5 +58,9 @@ a {
 	text-transform: uppercase;
 	padding: 15px;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 75px;
+}
+
+.dot {
+	background-color: yellowgreen;
 }
