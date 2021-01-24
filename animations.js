@@ -1,14 +1,9 @@
-let calendar = document.getElementById('calendar')
-let circleIcon = document.getElementById('circle')
-let searchIcon = document.getElementById('search')
+let elMenuItem = document.getElementsByClassName("item-link")[0];
 
 // First Icon event handling
-calendar.addEventListener('click', () => {
-  calendar.classList.toggle('active')
-  circleIcon.classList.toggle('active')
+elMenuItem.addEventListener('click', () => {
+  console.log('element clicked!');
+  elMenuItem.classList.toggle('active');
 })
 
-circleIcon.addEventListener('click', () => {
-  circleIcon.classList.toggle('active')
-  calendar.classList.toggle('active')
-})
+
