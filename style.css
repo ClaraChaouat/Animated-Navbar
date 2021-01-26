@@ -27,6 +27,7 @@ ul {
 	list-style: none;
 }
 
+/*Remember to remove this selector*/
 a:not(.item-link) {
 	display: block;
 	text-align: center;
@@ -47,7 +48,8 @@ a:not(.item-link) {
 .item-icon {
 	margin-bottom: 5px;
 	transform: translateY(0px);
-	transition-duration: 450ms;
+	transition-duration: 500ms;
+	transition-delay: 100ms;
 }
 
 .item-text {
@@ -56,23 +58,36 @@ a:not(.item-link) {
 	font-family: sans-serif;
 	position: absolute;
 	opacity: 0;
-	transform:translateY(0) ;
+	transform: translateY(0);
 	transition-duration: 500ms;
+	transition-delay: 200ms;
 }
 
 .item-dot {
 	display: block;
 	width: 8px;
 	height: 8px;
-	border-radius: 50%;
 	background-color: var(--color);
+	border-radius: 50%;
 	opacity: 0;
-	transform:scale(0);
-	transition:all 500ms;
+	transform: scale(0) translateY(0);
+	transition-duration: 500ms;
+	transition-delay: 200ms;
+}
+
+.item-circle-explosion {
+	display: block;
+	width: 20px;
+	height: 20px;
+	background-color: transparent;
+	border-radius: 50%;
+	position: absolute;
+	opacity: 0;
+	transform: scale(0);
+	transition-duration: 100ms;
 }
 
 .item-link.active .item-icon {
-	/* Select the element with the className "item-link" and "active" and "item-icon"?*/
 	opacity: 0;
 	transform: translateY(-50px);
 }
@@ -84,11 +99,12 @@ a:not(.item-link) {
 
 .item-link.active .item-dot {
 	opacity: 1;
-	transform: translateY(-5px);
-	transform:scale(1); /*1 is the original size*/
-	
+	transform: scale(1) translateY(-5px);
+	/*1 is the original size*/
 }
 
-
-
-
+.item-link.active .item-circle-explosion {
+	opacity: 1;
+	border: 0.01em solid var(--color);
+	transform: scale(5);
+}
