@@ -1,2 +1,2 @@
-# Animated-navbar
+# Toolbar icons animation challenge
 Whathevs
