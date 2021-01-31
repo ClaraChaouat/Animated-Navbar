@@ -20,7 +20,7 @@ Clone this repository to get a version in your local environment.
 ## Technologies used
 - HTML
 - CSS
--Vanilla JS
+- Vanilla JS
 
 ## Credit
 This toolbar icons animation is originally designed by Cuberto (https://dribbble.com/shots/5605168-Toolbar-icons-animation)
