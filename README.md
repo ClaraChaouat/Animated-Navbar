@@ -9,7 +9,7 @@ This challenge helped to realize how we can build sophisticated things with simp
 Clone this repository to get a version in your local environment.
 - On GitHub, navigate to the main page of the repository,
 - Above the list of files, click the green buttton (Code),
-- To clone the repository using HTTPS, copy the link startting with "HTTPS",
+- To clone the repository using HTTPS, copy the link starting with "HTTPS",
 - Open Git Bash,
 - Change the current working directory to the location where you want the cloned repository,
 - Type git clone and then paste the URL you copied earlier,
