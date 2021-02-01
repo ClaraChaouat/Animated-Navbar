@@ -6,7 +6,7 @@ The aim of this project is to practice HTML, CSS and Vanilla JS by building a to
 This challenge helps realizing how we can build sophisticated things with simple code.
 
 ## Installation
-1.Clone this repository from GitHub
+1. Clone this repository from GitHub
 2. Open index.html in your browser.
 
 ## Demo
