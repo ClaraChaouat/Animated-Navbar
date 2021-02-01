@@ -1,9 +1,13 @@
-let elMenuItem = document.getElementsByClassName("item-link")[0];
+let elMenuItems = document.getElementsByClassName('item-link')
 
-// First Icon event handling
-elMenuItem.addEventListener('click', () => {
-  console.log('element clicked!');
-  elMenuItem.classList.toggle('active');
+Array.from(document.getElementsByClassName('item-link')).forEach(function (
+  element,
+  index,
+  array
+) {
+  element.addEventListener('click', () => {
+    element.classList.toggle('active')
+  })
 })
 
 
