@@ -3,7 +3,7 @@
 
 ## Description
 The aim of this project is to practice HTML, CSS and Vanilla JS by building a toolbar icons animation.
-This challenge helped to realize how we can build sophisticated things with simple code.
+This challenge helps realizing how we can build sophisticated things with simple code.
 
 ## Installation
 Clone this repository to get a version in your local environment.
