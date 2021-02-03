@@ -1,5 +1,5 @@
 # Toolbar icons animation challenge
-<img src="./images/Toolbar icons animation.gif" alt="Databay showcase gif" title="Databay showcase gif" width="800"/>
+<img src="./images/Toolbar icons animation.gif" alt="showcase gif" title="Showcase gif" width="800"/>
 
 ## Description
 The aim of this project is to practice HTML, CSS and Vanilla JS by building a toolbar icons animation.
