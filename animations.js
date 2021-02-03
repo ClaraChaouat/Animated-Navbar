@@ -6,8 +6,14 @@ Array.from(document.getElementsByClassName('item-link')).forEach(function (
   array
 ) {
   element.addEventListener('click', () => {
+    Array.from(document.getElementsByClassName('item-link')).forEach(function (
+      element,
+      index,
+      array
+    ) {
+      element.classList.remove('active')
+    })
+
     element.classList.toggle('active')
   })
 })
-
-
