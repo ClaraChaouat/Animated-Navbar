@@ -17,5 +17,5 @@ This challenge helps realizing how we can build sophisticated things with simple
 - Vanilla JS
 
 ## Credit
-[designed by Cuberto]https://dribbble.com/shots/5605168-Toolbar-icons-animation)
+[Designed by Cuberto]https://dribbble.com/shots/5605168-Toolbar-icons-animation)
 
