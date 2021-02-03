@@ -101,7 +101,7 @@ ul {
 
 .item-link.active .item-icon {
 	opacity: 0;
-	clip-path: polygon(0 0, 100% 0, 100% 100%);
+	clip-path: polygon(0px 0px, 0px 25.46%, 100% 90.91%, 100% 0px);
 	transform: translateY(-50px);
 }
 
