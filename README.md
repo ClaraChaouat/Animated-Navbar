@@ -12,6 +12,9 @@ This challenge helps realizing how we can build sophisticated things with simple
 2. Open index.html in your browser.
 
 ## Demo
+Willing to play with the toolbar? Click on the link below :point_down: 
+
+  https://toolbar-animation-icon.netlify.app/
 
 ## Technologies used
 - HTML
