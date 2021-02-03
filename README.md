@@ -1,5 +1,5 @@
 # Toolbar icons animation challenge
-(Add image)
+<img src="./images/Toolbar icons animation.gif" alt="showcase gif" title="Showcase gif" width="800"/>
 
 ## Description
 The aim of this project is to practice HTML, CSS and Vanilla JS by building a toolbar icons animation.
@@ -17,5 +17,5 @@ This challenge helps realizing how we can build sophisticated things with simple
 - Vanilla JS
 
 ## Credit
-This toolbar icons animation is originally designed by Cuberto (https://dribbble.com/shots/5605168-Toolbar-icons-animation)
+[Designed by Cuberto]https://dribbble.com/shots/5605168-Toolbar-icons-animation)
 
