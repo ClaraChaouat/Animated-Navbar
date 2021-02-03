@@ -1,5 +1,7 @@
 # Toolbar icons animation challenge
-<img src="./images/Toolbar icons animation.gif" alt="showcase gif" title="Showcase gif" width="800"/>
+<p align="center">
+  <img width="800" src="./images/Toolbar icons animation.gif"/>
+</p>
 
 ## Description
 The aim of this project is to practice HTML, CSS and Vanilla JS by building a toolbar icons animation.
