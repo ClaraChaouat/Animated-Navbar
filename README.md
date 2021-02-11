@@ -22,5 +22,5 @@ Willing to play with the toolbar? Click on the link below :point_down:
 - Vanilla JS
 
 ## Credit
-[Designed by Cuberto]https://dribbble.com/shots/5605168-Toolbar-icons-animation)
+[Designed by Cuberto](https://dribbble.com/shots/5605168-Toolbar-icons-animation)
 
