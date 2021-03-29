@@ -16,11 +16,11 @@ Willing to play with the toolbar? Click on the link below :point_down:
 
   https://toolbar-animation-icon.netlify.app/
 
-## Technologies used:man_technologist::clap:
+## Technologies used:man_technologist:
 - HTML
 - CSS
 - Vanilla JS
 
-## Credit
+## Credit:clap:
 [Designed by Cuberto](https://dribbble.com/shots/5605168-Toolbar-icons-animation)
 
