@@ -1,4 +1,4 @@
-# Animated navbar replica
+# Handcrafted Animated Navbar 
 <p align="center">
   <img width="800" src="./images/Toolbar icons animation.gif"/>
 </p>
